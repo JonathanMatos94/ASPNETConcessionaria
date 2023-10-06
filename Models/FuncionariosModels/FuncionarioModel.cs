@@ -15,9 +15,6 @@ public class FuncionarioModel
     [Required]
     public string Nome { get; set; }
     [Required]
-    public EnderecoModel Endereco { get; set; }
-    public int EnderecoId {  get; set; }
-    [Required]
     public string Telefone { get; set; }
     [Required]
     public string Email { get; set; }

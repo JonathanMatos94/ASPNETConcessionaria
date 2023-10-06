@@ -30,4 +30,3 @@
         SE = 25, // Sergipe
         TO = 26 // Tocantins
     }
-}
