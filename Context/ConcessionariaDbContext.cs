@@ -15,7 +15,6 @@ namespace ASPNETConcessionaria.Context
         public DbSet<ClienteModel> Clientes { get; set; }
         public DbSet<FuncionarioModel> Funcionarios { get; set; }
         public DbSet<NegociacaoModel> Negociacoes { get; set; }
-        public DbSet<EnderecoModel> Endereco { get; set; }
 
     }
 }
